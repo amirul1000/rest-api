@@ -11,7 +11,7 @@ By REST Architecture we will make API
 and What return this RESTFUL API its generally JSON Data
 
 
-Youtube Tutorial : https://youtu.be/WrJIs8sRVa8
+Youtube Tutorial : https://youtu.be/jTTx0QOZjmk
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
