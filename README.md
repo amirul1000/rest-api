@@ -1,5 +1,8 @@
 "# rest-api" 
 
+REST API - REpresentational State Transfer | RESTFUL API
+========================================================
+
 REST stands for "RE presentational State Transfer". 
 
 API stands for "Application Programming Interface". It is a set 
