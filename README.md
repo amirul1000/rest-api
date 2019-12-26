@@ -1,17 +1,16 @@
 "# rest-api" 
 
-REST API - REpresentational State Transfer | RESTFUL API
-========================================================
+CRUD (Create Read Update & Delete) in Ajax | JavaScript CRUD | JSON and AJAX Tutorial
+=======================================================================================
 
-REST stands for "RE presentational State Transfer". 
+In this  tutorial I am going to discuss about CRUD Create Read Update & Delete in Ajax
+Ajax stands for Asynchronous JavaScript And XML
 
-API stands for "Application Programming Interface". It is a set 
-of rules that allows one piece of software application communicate  to another.
+Data is passing through ajax and API with JSON data
+and we are parsing that data and displaying
 
-REST concepts are referred to as resources. 
-A representation of a resource must be stateless. 
-By REST Architecture we will make API
-and What return this RESTFUL API its generally JSON Data
+we are doing add,edit,delete and getting list of data
+and display on front end
 
 
 Youtube Tutorial : https://youtu.be/jTTx0QOZjmk
